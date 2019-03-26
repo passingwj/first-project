@@ -1,3 +1,2 @@
 # first-project
-My first github project
-Hope a good beginning
+My first github project.Hope a good beginning.
